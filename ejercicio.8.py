@@ -4,7 +4,7 @@ n= int(input("ingrese la cantidad de notas: "))
 suma=0
 x=1
 while(x<=n):
-    print("ingrese la nota numero: ",x)
+    print("ingrese 5la nota numero: ",x)
     nota=float(input())
     suma=suma+nota
     x+=1
